@@ -308,6 +308,10 @@ a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
 
+a.project {
+	background: url(../images/gears.png) no-repeat 1px;
+}
+
 a.back {
 	background: url(../images/small-arrow-left.png) no-repeat 1px;
 }
